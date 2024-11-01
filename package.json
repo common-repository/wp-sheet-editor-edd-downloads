@@ -1,0 +1,36 @@
+{
+    "name": "wp-sheet-editor-edd-downloads",
+    "version": "1.0.73",
+    "vgDistName": "bulk-edit-edd-downloads",
+    "vgPreviousVersion": "1.0.73-beta.1",
+    "sheetEditorModules": {
+        "free": [
+            "autofill-cells",
+            "columns-resizing",
+            "columns-visibility",
+            "filters",
+            "wp-sheet-editor",
+            "user-path"
+        ],
+        "pro": [
+            "advanced-filters",
+            "columns-renaming",
+            "formulas",
+            "custom-columns",
+            "spreadsheet-setup",
+            "yoast-seo",
+            "wpml",
+            "acf",
+            "posts-templates",
+            "universal-sheet",
+            "columns-manager"
+        ]
+    },
+    "package_file_path": "C:\\VegaCorp\\dev\\wp-sheet-editor\/edd-downloads\/package.json",
+    "vgEditorKeys": [
+        "download"
+    ],
+    "wpOrgRepo": "https:\/\/plugins.svn.wordpress.org\/wp-sheet-editor-edd-downloads\/",
+    "freemiusFolderName": "wp-sheet-editor-edd-downloads",
+    "textName": "vg_sheet_editor_edd_downloads"
+}
